@@ -1,10 +1,11 @@
-Hi there! I'm Muhammad Younis, a passionate software engineer with experience in Java Software Developer. I enjoy building robust and scalable applications that solve real-world problems.
+Hi there! I'm Muhammad Younis, a Computer Science Student with experience in Java Software Developer. I enjoy building robust and scalable applications that solve real-world problems.
 
 My Skills
 
-Java
-C++
-SQL Basics
+Java Desktop Dev,
+Goodle's Firebase,
+MySQL,
+JDBC,
 HTML/CSS
 
 Get in touch
