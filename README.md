@@ -3,7 +3,7 @@ Hi there! I'm Muhammad Younis, a Computer Science Student with experience in Jav
 My Skills
 
 Java Desktop Dev,
-Goodle's Firebase,
+Google's Firebase,
 MySQL,
 JDBC,
 HTML/CSS
