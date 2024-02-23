@@ -9,9 +9,9 @@ I'm Muhammad Younis, a Cybersecurity enthusiast and Computer Science student fro
   </samp>
 </p>
 
-- 🔭 I’m currently working on Penetration Testing
-- 🌱 I’m currently learning Python Automation
-- 👯 I’m looking to collaborate on Python Projects
+- 🔭 Currently working on Penetration Testing
+- 🌱 Learning Python Automation
+- 👯 Looking to collaborate on Python Projects
 - 🤔 I’m looking for help with Vulnerabiltiy Exploitations
 - 💬 Ask me about Anything
 
