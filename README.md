@@ -13,7 +13,6 @@ I'm Muhammad Younis, a Cybersecurity enthusiast and Computer Science student fro
 - 🌱 Learning Python Automation
 - 👯 Looking to collaborate on Python Projects
 - 🤔 I’m looking for help with Vulnerabiltiy Exploitations
-- 💬 Ask me about Anything
 
 
 -----
