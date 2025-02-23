@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Younis! 👋
+# Hi there, I'm Muhammad Younis!
 
 
 ## About Me
