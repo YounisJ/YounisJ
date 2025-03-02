@@ -5,7 +5,7 @@
 
 ```yaml
 name: Muhammad Younis
-role: Cybersecurity Enthusiast | Jr. Penetration Tester
+role: Jr. Penetration Tester | Cybersecurity Enthusiast
 ```
 
 🔹 Passionate about **ethical hacking, penetration testing, and network security**.  
