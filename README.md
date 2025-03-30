@@ -6,7 +6,6 @@
 name: Muhammad Younis
 role: Jr. Penetration Tester | Cybersecurity Enthusiast
 ```
-
 🔹 Passionate about **ethical hacking, penetration testing, and network security**.  
 🔹 Love **building security tools, automating workflows, and writing tech blogs**.    
 
