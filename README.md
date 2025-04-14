@@ -45,6 +45,7 @@ role: Jr. Penetration Tester | Cybersecurity Enthusiast
 
 ---
 
+
 ## 💻 Projects
 
 ### 🛡️ Security & Penetration Testing
