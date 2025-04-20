@@ -59,7 +59,6 @@ role: Jr. Penetration Tester | Cybersecurity Enthusiast
 - Google Cybersecurity Professional Certificate  
 - Applied ChatGPT for Cybersecurity - Infosec Institute  
 - Cyber Security Specialization - Coursera  
-
 ---
 
 ## 🌍 Connect with Me
