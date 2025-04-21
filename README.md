@@ -9,7 +9,7 @@ role: Jr. Penetration Tester | Cybersecurity Enthusiast
 🔹 Passionate about **ethical hacking, penetration testing, and network security**.  
 🔹 Love **building security tools, automating workflows, and writing tech blogs**.    
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YounisJ&show_icons=true&theme=radical" height="180px"/>
