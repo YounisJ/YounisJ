@@ -77,5 +77,6 @@ role: Jr. Penetration Tester | Cybersecurity Enthusiast
 
 ---
 
+
 ⭐ **Star** my repos if you find them useful!  
 📩 Open to collaborations and networking!
