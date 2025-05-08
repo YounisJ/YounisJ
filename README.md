@@ -62,6 +62,7 @@ role: Jr. Penetration Tester | Cybersecurity Enthusiast
 - Cyber Security Specialization - Coursera  
 ---
 
+
 ## 🌍 Connect with Me
 
 <p align="center">
