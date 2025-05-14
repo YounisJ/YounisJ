@@ -52,6 +52,7 @@ role: Jr. Penetration Tester | Cybersecurity Enthusiast
 - **Dark Web Network Monitoring** - Detects suspicious activities by capturing live network traffic.  
 - **Web Exploitation Framework** - Custom-built tool to test web vulnerabilities like SQL Injection, XSS, etc.  
 
+
 ---
 
 ## 📜 Certifications
