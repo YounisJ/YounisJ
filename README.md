@@ -245,11 +245,9 @@ $ cat /var/log/younis/current_missions.log
   <img src="https://raw.githubusercontent.com/YounisJ/YounisJ/main/assets/github-contribution-grid-snake.gif" alt="snake" width="100%" />
 </div>
 
-> 💡 *Tip: The snake animation above works automatically if you have the GitHub Action enabled. If not visible, your contribution graph below shows your activity perfectly!*
-
 ---
 
-## 📊 Weekly Activity Breakdown
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YounisJ&hide_title=true&hide_border=true&bg_color=0d1117&text_color=00FF00&icon_color=00FF00&custom_title=Weekly+Coding+Activity&layout=compact" width="60%" />
