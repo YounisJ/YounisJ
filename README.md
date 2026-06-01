@@ -23,10 +23,10 @@
 ├──────────────────────────────────────────────────────────┤
 │  name        : Muhammad Younis                           │
 │  role        : Lab Instructor | Jr. Penetration Tester   │
-│  goal        : Cybersecurity Instructor @ FAST-NUCES     │
+│  goal        : Cybersecurity Researcher  │
 │  location    : Sukkur, Sindh, Pakistan 🇵🇰               │
 │  education   : BS Computer Science — Sukkur IBA Univ.    │
-│  cgpa        : 3.16 / 4.00                               │
+│  cgpa        : 3.15 / 4.00                               │
 │  email       : younisj278@gmail.com                      │
 ├──────────────────────────────────────────────────────────┤
 │  status      : [ ACTIVE ] Open to collabs & roles        │
