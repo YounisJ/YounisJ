@@ -42,9 +42,9 @@
 ├──────────────────────────────────────────────────────────────────────┤
 │  name          : Muhammad Younis                                     │
 │  alias         : YounisJ                                             │
-│  role          : AI & Cybersecurity Researcher | Lab Instructor        │
+│  role          : AI & Cybersecurity Researcher | Lab Instructor      │
 │  goal          : MRes Researcher → Cybersecurity Instructor          │
-│  location      : Sukkur → Worldwide (Remote-Ready) 🇵🇰               │
+│  location      : Sukkur → Worldwide (Remote-Ready) 🇵🇰                │
 │  education     : BS Computer Science — Sukkur IBA University         │
 │  cgpa          : 3.16 / 4.00                                         │
 │  email         : younisj278@gmail.com                                │
