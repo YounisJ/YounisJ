@@ -167,11 +167,12 @@ highlights:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YounisJ&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
-
-<br/>
-
-**🎖️ Achievements:** `YOLO` &nbsp;|&nbsp; `Pull Shark` &nbsp;|&nbsp; `Quickdraw`
+**🎖️ Achievements:** &nbsp;
+![YOLO](https://img.shields.io/badge/YOLO-achievement-red?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-blue?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-green?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -269,10 +270,7 @@ $ cat /var/log/younis/current_missions.log
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YounisJ&theme=github_dark" width="40%"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YounisJ&theme=github_dark" width="40%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisJ&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
 </div>
 
 
