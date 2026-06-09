@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -54,21 +54,21 @@
 └──────────────────────────────────────────────────────────────────────┘
 
 highlights:
-  - 🔬 Active Researcher in Federated Learning & Cyber Defense
-  - 🧠 Architected GenAI Sentinels for Zero-Day anomaly detection
-  - 📊 Published comprehensive mapping of ML in cybersecurity
-  - 🎓 Google Cybersecurity Certified (97.55% avg — 8 modules)
-  - 🤖 Built DarkVision — AI dark web traffic classifier (85%+ accuracy)
+  - Active Researcher in Federated Learning & Cyber Defense
+  - Architected GenAI Sentinels for Zero-Day anomaly detection
+  - Published comprehensive mapping of ML in cybersecurity
+  - Google Cybersecurity Certified (97.55% avg — 8 modules)
+  - Built DarkVision — AI dark web traffic classifier (85%+ accuracy)
 
 ```
 
 ---
 
-## ⚔️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
-### 🖥️ Languages & Scripting
+### Languages & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -78,7 +78,7 @@ highlights:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🔐 Security Tools & Platforms
+### Security Tools & Platforms
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -89,7 +89,7 @@ highlights:
 ![Scapy](https://img.shields.io/badge/Scapy-0078D7?style=for-the-badge&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-FF0000?style=for-the-badge&logoColor=white)
 
-### 🖥️ Operating Systems & Environments
+### Operating Systems & Environments
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -97,7 +97,7 @@ highlights:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📚 Frameworks, Standards & Methodologies
+### Frameworks, Standards & Methodologies
 
 ![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=for-the-badge&logoColor=white)
 ![CVSS](https://img.shields.io/badge/CVSS_Scoring-CC0000?style=for-the-badge&logoColor=white)
@@ -106,7 +106,7 @@ highlights:
 ![CIA Triad](https://img.shields.io/badge/CIA_Triad-6B0000?style=for-the-badge&logoColor=white)
 ![PTES](https://img.shields.io/badge/PTES-333333?style=for-the-badge&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -115,7 +115,7 @@ highlights:
 ![TensorFlow](https://img.shields.io/badge/ML_Anomaly_Detection-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM_Threat_Analysis-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🛠️ Dev Tools & Platforms
+### Dev Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -127,7 +127,7 @@ highlights:
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -142,7 +142,7 @@ highlights:
 
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -163,7 +163,7 @@ highlights:
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## GitHub Trophies & Achievements
 
 <div align="center">
 
@@ -178,10 +178,10 @@ highlights:
 
 ---
 
-## 🎖️ Certifications
+## Certifications
 
 <details open>
-<summary><b>📜 Google Cybersecurity Professional Certificate — Google / Coursera (2024)</b></summary>
+<summary><b> Google Cybersecurity Professional Certificate — Google / Coursera (2024)</b></summary>
 <br/>
 
 | Module | Grade |
@@ -198,26 +198,26 @@ highlights:
 </details>
 
 <details>
-<summary><b>📜 All Other Certifications & In-Progress</b></summary>
+<summary><b> All Other Certifications & In-Progress</b></summary>
 <br/>
 
 | Certification | Issuer | Grade | Year | Status |
 |---|---|---|---|---|
-| Applied ChatGPT for Cybersecurity | Infosec Institute / Coursera | 87.50% | 2025 | ✅ Complete |
-| Introduction to Cybersecurity Tools & Cyberattacks | IBM / Coursera | 90.00% | 2025 | ✅ Complete |
-| AI For Everyone | DeepLearning.AI / Coursera | 95.12% | 2024 | ✅ Complete |
-| Programming for Everybody (Python) | University of Michigan / Coursera | 95.68% | 2023 | ✅ Complete |
-| CAP — Certified AppSec Practitioner | The SecOps Group | — | 2026 | 🔥 In Progress |
-| CNSP — Certified Network Security Practitioner | The SecOps Group | — | 2026 | 🔥 In Progress |
+| Applied ChatGPT for Cybersecurity | Infosec Institute / Coursera | 87.50% | 2025 | Complete |
+| Introduction to Cybersecurity Tools & Cyberattacks | IBM / Coursera | 90.00% | 2025 | Complete |
+| AI For Everyone | DeepLearning.AI / Coursera | 95.12% | 2024 | Complete |
+| Programming for Everybody (Python) | University of Michigan / Coursera | 95.68% | 2023 | Complete |
+| CAP — Certified AppSec Practitioner | The SecOps Group | — | 2026 | In Progress |
+| CNSP — Certified Network Security Practitioner | The SecOps Group | — | 2026 | In Progress |
 
 </details>
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <details open>
-<summary><b>🏢 Lab Instructor</b></summary>
+<summary><b> Lab Instructor</b></summary>
 <br/>
 
 ```
@@ -232,7 +232,7 @@ highlights:
 </details>
 
 <details>
-<summary><b>🛡️ Jr. Cybersecurity Analyst</b></summary>
+<summary><b> Jr. Cybersecurity Analyst</b></summary>
 <br/>
 
 ```
@@ -248,7 +248,7 @@ highlights:
 
 ---
 
-## 🧭 Current Focus
+## Current Focus
 
 ```bash
 $ cat /var/log/younis/current_missions.log
@@ -262,7 +262,7 @@ $ cat /var/log/younis/current_missions.log
 
 ---
 
-## 📈 Contribution Metrics
+## Contribution Metrics
 
 <div align="center">
 
@@ -270,22 +270,22 @@ $ cat /var/log/younis/current_missions.log
 </div>
 
 
-## ⚡ Fun Facts & Philosophy
+## Fun Facts & Philosophy
 
-> 🧠 *"The future of cybersecurity relies on collaborative, privacy-preserving AI."*
+>  *"The future of cybersecurity relies on collaborative, privacy-preserving AI."*
 
-> 🔐 *"Security is not a product, but a process."* — Bruce Schneier
+>  *"Security is not a product, but a process."* — Bruce Schneier
 
-- 🔬 Passionate about the intersection of Artificial Intelligence and robust Cyber Defense.
-- 🤖 Exploring the potential of highly compressed LLMs on edge nodes for semantic threat detection.
-- 🛡️ Believe that collaborative defense through Federated Learning is the future of threat intelligence.
-- 📚 Actively curating resources and conducting comprehensive reviews on ML in cybersecurity.
-- 💡 Dedicated to building simulation environments to rigorously evaluate zero-day defenses.
-- ☕ Fuel stack: `black coffee + PyTorch + research papers + stubbornness`
+-  Passionate about the intersection of Artificial Intelligence and robust Cyber Defense.
+-  Exploring the potential of highly compressed LLMs on edge nodes for semantic threat detection.
+-  Believe that collaborative defense through Federated Learning is the future of threat intelligence.
+-  Actively curating resources and conducting comprehensive reviews on ML in cybersecurity.
+-  Dedicated to building simulation environments to rigorously evaluate zero-day defenses.
+-  Fuel stack: `black coffee + PyTorch + research papers + stubbornness`
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -296,7 +296,7 @@ $ cat /var/log/younis/current_missions.log
 
 <br/>
 
-**📍 Sukkur, Pakistan — Open to remote roles, research collabs & instructor positions worldwide**
+** Sukkur, Pakistan — Open to remote roles, research collabs & instructor positions worldwide**
 
 <br/>
 
