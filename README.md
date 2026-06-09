@@ -133,7 +133,7 @@ highlights:
 
 | 🚀 Project | 🛠️ Stack | 📝 Description | ⭐ |
 |---|---|---|---|
-| **[Aegis-FL-Byzantine-Defense](https://github.com/YounisJ/Aegis-FL-Byzantine-Defense)**<br/>[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aegis-fl.streamlit.app/) | Python · PyTorch · Flower · Streamlit | A complete PyTorch and Flower simulation environment evaluating Byzantine Fault Tolerance and semantic intrusion detection using compressed LLMs on edge nodes. Features a live telemetry dashboard! | 🛡️ |
+| **[Aegis-FL-Byzantine-Defense](https://github.com/YounisJ/Aegis-FL-Byzantine-Defense)**<br/>[![Streamlit App]](https://aegis-fl.streamlit.app/) | Python · PyTorch · Flower · Streamlit | A complete PyTorch and Flower simulation environment evaluating Byzantine Fault Tolerance and semantic intrusion detection using compressed LLMs on edge nodes. Features a live telemetry dashboard! | 🛡️ |
 | **[Federated-Learning-in-Cybersecurity](https://github.com/YounisJ/Federated-Learning-in-Cybersecurity)** | Research · Datasets · Literature Review | A curated list of resources, datasets, and research papers mapping the intersection of Federated Learning and Cyber Defense. Official companion to our Comprehensive Review. | 📚 |
 | **[MeshTalk](https://github.com/YounisJ)** | Python · BLE · Firebase · E2EE | Dual-mode encrypted messaging — offline BLE mesh routing + online Firebase sync for 50+ concurrent nodes. Final Year Project. | 🔐 |
 | **[DarkVision](https://github.com/YounisJ)** | Python · ML · Scapy · Pandas · scikit-learn | AI-powered PCAP classifier detecting dark web traffic with **85%+ accuracy**. Random Forest, SVM & Decision Tree. 60% faster analysis. | 🤖 |
@@ -266,10 +266,6 @@ $ cat /var/log/younis/current_missions.log
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YounisJ&theme=github_dark" width="92%"/>
-
-<br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisJ&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
 </div>
 
@@ -311,15 +307,6 @@ $ cat /var/log/younis/current_missions.log
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YounisJ&hide_title=true&hide_border=true&bg_color=0d1117&text_color=00FF00&icon_color=00FF00&custom_title=Weekly+Coding+Activity&layout=compact" width="55%" />
-
-</div>
-
----
 
 <div align="center">
 
