@@ -134,7 +134,7 @@ highlights:
 
 | 🚀 Project | 🛠️ Stack | 📝 Description | ⭐ |
 |---|---|---|---|
-| **[Aegis-FL-Byzantine-Defense](https://github.com/YounisJ/Aegis-FL-Byzantine-Defense)**<br/>[![Streamlit App]] | Python · PyTorch · Flower · Streamlit | A complete PyTorch and Flower simulation environment evaluating Byzantine Fault Tolerance and semantic intrusion detection using compressed LLMs on edge nodes. Features a live telemetry dashboard! | 🛡️ |
+| **[Aegis-FL-Byzantine-Defense](https://github.com/YounisJ/Aegis-FL-Byzantine-Defense)** | Python · PyTorch · Flower · Streamlit | A complete PyTorch and Flower simulation environment evaluating Byzantine Fault Tolerance and semantic intrusion detection using compressed LLMs on edge nodes. Features a live telemetry dashboard! | 🛡️ |
 | **[Anomaly-x](https://github.com/YounisJ/Anomaly-x)** | Python · Streamlit · Scikit-Learn · Pandas | An AI-driven, real-time Intrusion Detection System (IDS) dashboard. Leverages a Random Forest classifier to instantly dissect network packet signatures and flag anomalous behavior with a cyberpunk-inspired UI. | 🚨 |
 | **[Federated-Learning-in-Cybersecurity](https://github.com/YounisJ/Federated-Learning-in-Cybersecurity)** | Research · Datasets · Literature Review | A curated list of resources, datasets, and research papers mapping the intersection of Federated Learning and Cyber Defense. Official companion to our Comprehensive Review. | 📚 |
 | **[MeshTalk](https://github.com/YounisJ)** | Python · BLE · Firebase · E2EE | Dual-mode encrypted messaging — offline BLE mesh routing + online Firebase sync for 50+ concurrent nodes. Final Year Project. | 🔐 |
