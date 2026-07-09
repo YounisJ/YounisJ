@@ -1,9 +1,5 @@
 <div align="center">
 
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a00,70:003300,100:00FF00&height=200&section=header&text=Muhammad%20Younis&fontSize=48&fontColor=00FF00&animation=fadeIn&fontAlignY=36&desc=Penetration%20Tester%20%7C%20Lab%20Instructor%20%7C%20AI%20%2B%20Cybersecurity%20Researcher&descAlignY=56&descSize=15&descColor=39FF14" />
 
 <br/>
