@@ -4,10 +4,7 @@
 
 <br/>
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=750&lines=Jr.+Penetration+Tester+%F0%9F%94%93;Web+App+%26+Network+Security+Specialist+%F0%9F%8C%90;AI-Powered+Threat+Detection+%F0%9F%A4%96;SSRF+%7C+OWASP+%7C+Bug+Bounty+Hunter+%F0%9F%90%9B;Building+CAP+%26+CNSP+Certifications+%F0%9F%8E%AF;Breaking+Things+to+Build+Better+Defenses+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=750&lines=Jr.+Penetration+Tester+%F0%9F%94%93;Web+App+%26+Network+Security+Specialist+%F0%9F%8C%90;AI-Powered+Threat+Detection+%F0%9F%A4%96;SSRF+%7C+OWASP+%7C+Bug+Bounty+Hunter+%F0%9F%90%9B;CAP+%26+CNSP+Certified+%F0%9F%8E%AF;Breaking+Things+to+Build+Better+Defenses+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Web%20App%20Pentesting-00FF00?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Sukkur%2C%20Pakistan-39FF14?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00FF00" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-39FF14?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00FF00" alt="Location"/>
 </p>
 
 <p align="center">
@@ -37,7 +34,6 @@
 
 ---
 
-
 ## About Me
 
 ```yaml
@@ -46,24 +42,26 @@
 ├──────────────────────────────────────────────────────────────────────┤
 │  name          : Muhammad Younis                                     │
 │  alias         : YounisJ                                             │
-│  role          : AI & Cybersecurity Researcher | Lab Instructor      │
+│  role          : Penetration Tester | Red Team | Cybersecurity Researcher │
 │  goal          : MRes Researcher → Cybersecurity Instructor          │
-│  location      : Sukkur → Worldwide (Remote-Ready) 🇵🇰                │
+│  location      : Karachi, Pakistan 🇵🇰                               │
 │  education     : BS Computer Science — Sukkur IBA University         │
-│  cgpa          : 3.16 / 4.00                                         │
+│  cgpa          : 3.12 / 4.00                                         │
 │  email         : younisj278@gmail.com                                │
-│  currently     : Researching Federated Learning | AI Cyber Defense   │
+│  currently     : Red Team Intern @ Rynex Security                    │
+│  certifications: CAP (88% with Merit) · CNSP · Google Cyber · IBM    │
 ├──────────────────────────────────────────────────────────────────────┤
 │  status        : [ ACTIVE ] Open to collabs, research & roles        │
 └──────────────────────────────────────────────────────────────────────┘
 
 highlights:
-  - Active Researcher in Federated Learning & Cyber Defense
-  - Architected GenAI Sentinels for Zero-Day anomaly detection
+  - Active researcher in Federated Learning & Cyber Defense
+  - Architected GenAI Sentinels for zero-day anomaly detection
   - Published comprehensive mapping of ML in cybersecurity
-  - Google Cybersecurity Certified (97.55% avg — 8 modules)
+  - CAP & CNSP certified (88% with Merit)
+  - Google Cybersecurity certified (97.55% avg — 8 modules)
   - Built DarkVision — AI dark web traffic classifier (85%+ accuracy)
-
+  - Red Team Intern @ Rynex Security
 ```
 
 ---
@@ -80,6 +78,9 @@ highlights:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Security Tools & Platforms
@@ -90,7 +91,7 @@ highlights:
 ![Nmap](https://img.shields.io/badge/Nmap-00416A?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-0078D7?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A1DE?style=for-the-badge&logo=nessus&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-FF0000?style=for-the-badge&logoColor=white)
 
 ### Operating Systems & Environments
@@ -99,16 +100,17 @@ highlights:
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frameworks, Standards & Methodologies
 
 ![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-003366?style=for-the-badge&logoColor=white)
 ![CVSS](https://img.shields.io/badge/CVSS_Scoring-CC0000?style=for-the-badge&logoColor=white)
 ![CIS](https://img.shields.io/badge/CIS_Benchmarks-005288?style=for-the-badge&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![CIA Triad](https://img.shields.io/badge/CIA_Triad-6B0000?style=for-the-badge&logoColor=white)
-![PTES](https://img.shields.io/badge/PTES-333333?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=for-the-badge&logoColor=white)
 
 ### AI & Machine Learning
 
@@ -116,7 +118,8 @@ highlights:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/ML_Anomaly_Detection-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM_Threat_Analysis-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Dev Tools & Platforms
@@ -126,6 +129,7 @@ highlights:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -137,16 +141,119 @@ highlights:
 
 | 🚀 Project | 🛠️ Stack | 📝 Description | ⭐ |
 |---|---|---|---|
-| **[Aegis-FL-Byzantine-Defense](https://github.com/YounisJ/Aegis-FL-Byzantine-Defense)** | Python · PyTorch · Flower · Streamlit | A complete PyTorch and Flower simulation environment evaluating Byzantine Fault Tolerance and semantic intrusion detection using compressed LLMs on edge nodes. Features a live telemetry dashboard! | 🛡️ |
-| **[Anomaly-x](https://github.com/YounisJ/Anomaly-x)** | Python · Streamlit · Scikit-Learn · Pandas | An AI-driven, real-time Intrusion Detection System (IDS) dashboard. Leverages a Random Forest classifier to instantly dissect network packet signatures and flag anomalous behavior with a cyberpunk-inspired UI. | 🚨 |
-| **[Federated-Learning-in-Cybersecurity](https://github.com/YounisJ/Federated-Learning-in-Cybersecurity)** | Research · Datasets · Literature Review | A curated list of resources, datasets, and research papers mapping the intersection of Federated Learning and Cyber Defense. Official companion to our Comprehensive Review. | 📚 |
-| **[MeshTalk](https://github.com/YounisJ)** | Python · BLE · Firebase · E2EE | Dual-mode encrypted messaging — offline BLE routing + online Firebase sync. Final Year Project. | 🔐 |
-| **[DarkVision](https://github.com/YounisJ)** | Python · ML · Scapy · Pandas · scikit-learn | AI-powered PCAP classifier detecting dark web traffic with **85%+ accuracy**. Random Forest, SVM & Decision Tree. 60% faster analysis. | 🤖 |
-
+| **[Aegis-FL-Byzantine-Defense](https://github.com/YounisJ/Aegis-FL-Byzantine-Defense)** | Python · PyTorch · Flower · Streamlit | A PyTorch and Flower simulation environment evaluating Byzantine fault tolerance and semantic intrusion detection using compressed LLMs on edge nodes, with a live telemetry dashboard. | 🛡️ |
+| **[Anomaly-x](https://github.com/YounisJ/Anomaly-x)** | Python · Streamlit · Scikit-Learn · Pandas | An AI-driven, real-time intrusion detection system dashboard that uses a Random Forest classifier to dissect network packet signatures and flag anomalous behavior. | 🚨 |
+| **[Federated-Learning-in-Cybersecurity](https://github.com/YounisJ/Federated-Learning-in-Cybersecurity)** | Research · Datasets · Literature Review | A curated list of resources, datasets, and research papers mapping the intersection of Federated Learning and cyber defense; companion to a comprehensive review. | 📚 |
+| **[MeshTalk](https://github.com/YounisJ)** | Python · BLE · Firebase · E2EE | Dual-mode encrypted messaging combining offline BLE routing with online Firebase sync. Final year project. | 🔐 |
+| **[DarkVision](https://github.com/YounisJ)** | Python · ML · Scapy · Pandas · scikit-learn | AI-powered PCAP classifier detecting dark web traffic with 85%+ accuracy using Random Forest, SVM, and Decision Tree models — 60% faster analysis. | 🤖 |
+| **[Birdbrain-AI](https://github.com/YounisJ)** | Python · PPO · Pygame | Reinforcement learning agent trained to play Flappy Bird using Proximal Policy Optimization. | 🐦 |
 
 </div>
 
+---
 
+## Certifications
+
+<details open>
+<summary><b>🔐 Certified AppSec Practitioner v2 (CAP) — The SecOps Group (2026)</b></summary>
+<br/>
+
+| Detail | Information |
+|--------|-------------|
+| Score | 88% with Merit |
+| Certificate ID | 11664516 |
+| Exam Version | 201 |
+| Date | 11-JUL-2026 |
+
+</details>
+
+<details open>
+<summary><b>🌐 Certified Network Security Practitioner (CNSP) — The SecOps Group (2026)</b></summary>
+<br/>
+
+| Detail | Information |
+|--------|-------------|
+| Score | Passed with Merit |
+| Certificate ID | 11726346 |
+| Exam Version | 101 |
+| Date | 05-AUG-2026 |
+
+</details>
+
+<details>
+<summary><b>🛡️ Google Cybersecurity Professional Certificate — Google / Coursera (2024)</b></summary>
+<br/>
+
+| Module | Grade |
+|---|---|
+| Foundations of Cybersecurity | 97.55% |
+| Play It Safe: Manage Security Risks | 96.58% |
+| Connect and Protect: Networks & Network Security | 96.43% |
+| Tools of the Trade: Linux and SQL | 92.70% |
+| Assets, Threats, and Vulnerabilities | 95.00% |
+| Sound the Alarm: Detection and Response | 95.25% |
+| Automate Cybersecurity Tasks with Python | 92.28% |
+| Put It to Work: Prepare for Cybersecurity Jobs | 97.15% |
+
+</details>
+
+<details>
+<summary><b>📜 All Other Certifications</b></summary>
+<br/>
+
+| Certification | Issuer | Grade | Year | Status |
+|---|---|---|---|---|
+| Applied ChatGPT for Cybersecurity | Infosec Institute / Coursera | 87.50% | 2025 | Complete |
+| Introduction to Cybersecurity Tools & Cyberattacks | IBM / Coursera | 90.00% | 2025 | Complete |
+| AI For Everyone | DeepLearning.AI / Coursera | 95.12% | 2024 | Complete |
+| Programming for Everybody (Python) | University of Michigan / Coursera | 95.68% | 2023 | Complete |
+
+</details>
+
+---
+
+## Professional Experience
+
+<details open>
+<summary><b>🔴 Red Team Intern — Rynex Security</b></summary>
+<br/>
+
+```
+▸ Conducting vulnerability assessments and penetration testing on web apps & networks
+▸ Assisting in security monitoring, log analysis, and incident response
+▸ Collaborating with senior security engineers on offensive & defensive tasks
+▸ Documenting findings and preparing technical reports
+▸ Identifying and exploiting OWASP Top 10 vulnerabilities
+```
+
+</details>
+
+<details>
+<summary><b>👨‍🏫 Lab Instructor — Bakhtawar Bhutto Institute of IT, Sukkur</b></summary>
+<br/>
+
+```
+▸ Instructed 100+ undergraduate students across computing lab courses
+▸ Managed a 30-node lab environment — reduced system downtime by 40%
+▸ Designed 15+ structured lab exercises aligned with course learning outcomes
+▸ Introduced cybersecurity fundamentals and ethical hacking concepts
+```
+
+</details>
+
+<details>
+<summary><b>🛡️ Cybersecurity Intern — Graxo Consulting</b></summary>
+<br/>
+
+```
+▸ Completed a structured 50-day cybersecurity program
+▸ Gained hands-on experience with security testing tools
+▸ Worked on vulnerability scanning, threat analysis, and incident response
+```
+
+</details>
+
+---
 
 ## GitHub Analytics
 
@@ -169,88 +276,13 @@ highlights:
 
 ---
 
-## GitHub Trophies & Achievements
+## Contribution Metrics
 
 <div align="center">
 
-**🎖️ Achievements:** &nbsp;
-![YOLO](https://img.shields.io/badge/YOLO-achievement-red?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-blue?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-green?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisJ&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
 
 </div>
-
----
-
-## Certifications
-
-<details open>
-<summary><b> Google Cybersecurity Professional Certificate — Google / Coursera (2024)</b></summary>
-<br/>
-
-| Module | Grade |
-|---|---|
-| Foundations of Cybersecurity | **97.55%** |
-| Play It Safe: Manage Security Risks | 96.58% |
-| Connect and Protect: Networks & Network Security | 96.43% |
-| Tools of the Trade: Linux and SQL | 92.70% |
-| Assets, Threats, and Vulnerabilities | 95.00% |
-| Sound the Alarm: Detection and Response | 95.25% |
-| Automate Cybersecurity Tasks with Python | 92.28% |
-| Put It to Work: Prepare for Cybersecurity Jobs | 97.15% |
-
-</details>
-
-<details>
-<summary><b> All Other Certifications & In-Progress</b></summary>
-<br/>
-
-| Certification | Issuer | Grade | Year | Status |
-|---|---|---|---|---|
-| Applied ChatGPT for Cybersecurity | Infosec Institute / Coursera | 87.50% | 2025 | Complete |
-| Introduction to Cybersecurity Tools & Cyberattacks | IBM / Coursera | 90.00% | 2025 | Complete |
-| AI For Everyone | DeepLearning.AI / Coursera | 95.12% | 2024 | Complete |
-| Programming for Everybody (Python) | University of Michigan / Coursera | 95.68% | 2023 | Complete |
-| CAP — Certified AppSec Practitioner | The SecOps Group | — | 2026 | In Progress |
-| CNSP — Certified Network Security Practitioner | The SecOps Group | — | 2026 | In Progress |
-
-</details>
-
----
-
-## Professional Experience
-
-<details open>
-<summary><b> Lab Instructor</b></summary>
-<br/>
-
-```
-▸ Instructing 100+ undergraduate students across computing lab courses
-▸ Managing 30-node lab environment — reduced system downtime by 40%
-▸ Designed 15+ structured lab exercises aligned with course learning outcomes
-▸ Improved average student practical performance by an estimated 20%
-▸ Standardized assessment rubrics and practical examination workflows
-▸ Introducing cybersecurity fundamentals and ethical hacking concepts
-```
-
-</details>
-
-<details>
-<summary><b> Jr. Cybersecurity Analyst</b></summary>
-<br/>
-
-```
-▸ Executed web app & network pentests on 10+ targets using Burp Suite, Nmap, Wireshark
-▸ Identified 25+ critical/high-severity vulnerabilities across engagements
-▸ Applied CIS benchmark controls for Linux/Windows system hardening
-▸ Authored 10+ vulnerability assessment reports with CVSS scoring & remediation steps
-▸ Conducted OSINT investigations and assisted in incident response simulations
-▸ Performed SSRF, XSS, SQLi, and authentication bypass testing on web targets
-```
-
-</details>
 
 ---
 
@@ -259,8 +291,9 @@ highlights:
 ```bash
 $ cat /var/log/younis/current_missions.log
 
+[ONGOING] → Red Team Intern @ Rynex Security
 [ONGOING] → Research: Federated Learning & its application in Cyber Defense
-[ONGOING] → Research: GenAI Sentinels for Zero-Day intrusion detection
+[ONGOING] → Research: GenAI Sentinels for zero-day intrusion detection
 [ONGOING] → Projects: Building PyTorch & Flower simulations for edge ML
 [ONGOING] → Target: Publishing comprehensive literature reviews & datasets
 [ONGOING] → Target: MRes (Cybersecurity/AI) — fully funded program applications
@@ -268,30 +301,22 @@ $ cat /var/log/younis/current_missions.log
 
 ---
 
-## Contribution Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisJ&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
-</div>
-
-
 ## Fun Facts & Philosophy
 
->  *"The future of cybersecurity relies on collaborative, privacy-preserving AI."*
+> *"The future of cybersecurity relies on collaborative, privacy-preserving AI."*
 
->  *"Security is not a product, but a process."* — Bruce Schneier
+> *"Security is not a product, but a process."* — Bruce Schneier
 
--  Passionate about the intersection of Artificial Intelligence and robust Cyber Defense.
--  Exploring the potential of highly compressed LLMs on edge nodes for semantic threat detection.
--  Believe that collaborative defense through Federated Learning is the future of threat intelligence.
--  Actively curating resources and conducting comprehensive reviews on ML in cybersecurity.
--  Dedicated to building simulation environments to rigorously evaluate zero-day defenses.
--  Fuel stack: `black coffee + PyTorch + research papers + stubbornness`
+- 🔐 Passionate about the intersection of artificial intelligence and robust cyber defense
+- 🤖 Exploring the potential of highly compressed LLMs on edge nodes for semantic threat detection
+- 🌐 Believes collaborative defense through Federated Learning is the future of threat intelligence
+- 📚 Actively curating resources and conducting comprehensive reviews on ML in cybersecurity
+- 🛠️ Dedicated to building simulation environments to rigorously evaluate zero-day defenses
+- ☕ Fuel stack: `black coffee + PyTorch + research papers + stubbornness`
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -302,17 +327,17 @@ $ cat /var/log/younis/current_missions.log
 
 <br/>
 
-** Sukkur, Pakistan — Open to remote roles, research collabs & instructor positions worldwide**
+**📍 Karachi, Pakistan — Open to remote roles, research collabs & instructor positions worldwide**
 
 <br/>
 
-<!-- Open to Work Banner -->
 <img src="https://img.shields.io/badge/🔍_Open_To-Cybersecurity_Research_Roles-00FF00?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/🎓_Applying_For-Fully_Funded_MRes_2027-39FF14?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
+---
 
 <div align="center">
 
@@ -320,7 +345,7 @@ $ cat /var/log/younis/current_missions.log
 
 <br/>
 
-⭐ **Star my repos if you find them useful** &nbsp;|&nbsp; 📩 **Open to collabs, mentorships & research partnerships**
+⭐ Star my repos if you find them useful &nbsp;|&nbsp; 📩 Open to collabs, mentorships & research partnerships
 
 <br/>
 
