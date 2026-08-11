@@ -42,9 +42,9 @@
 ├──────────────────────────────────────────────────────────────────────┤
 │  name          : Muhammad Younis                                     │
 │  alias         : YounisJ                                             │
-│  role          : Penetration Tester | Red Team | Cybersecurity Researcher │
+│  role          : Red Team | Cybersecurity Researcher                 │
 │  goal          : MRes Researcher → Cybersecurity Instructor          │
-│  location      : Karachi, Pakistan 🇵🇰                               │
+│  location      : Karachi, Pakistan 🇵🇰                                │
 │  education     : BS Computer Science — Sukkur IBA University         │
 │  cgpa          : 3.12 / 4.00                                         │
 │  email         : younisj278@gmail.com                                │
