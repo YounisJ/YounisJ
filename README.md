@@ -47,7 +47,7 @@
 │  goal          : MRes Researcher → Cybersecurity Instructor          │
 │  location      : Karachi, Pakistan 🇵🇰                                │
 │  education     : BS Computer Science — Sukkur IBA University         │
-│  cgpa          : 3.12 / 4.00                                         │
+│  cgpa          : 3.17 / 4.00                                         │
 │  email         : younisj278@gmail.com                                │
 │  currently     : Red Team Intern @ Rynex Security                    │
 │  certifications: CAP (88% with Merit) · CNSP · Google Cyber · IBM    │
