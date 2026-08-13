@@ -161,7 +161,6 @@ highlights:
 
 | Detail | Information |
 |--------|-------------|
-| Score | 88% with Merit |
 | Certificate ID | 11664516 |
 | Exam Version | 201 |
 | Date | 11-JUL-2026 |
@@ -174,7 +173,6 @@ highlights:
 
 | Detail | Information |
 |--------|-------------|
-| Score | Passed with Merit |
 | Certificate ID | 11726346 |
 | Exam Version | 101 |
 | Date | 05-AUG-2026 |
