@@ -50,7 +50,7 @@
 │  cgpa          : 3.17 / 4.00                                         │
 │  email         : younisj278@gmail.com                                │
 │  currently     : Red Team Intern @ Rynex Security                    │
-│  certifications: CAP (88% with Merit) · CNSP · Google Cyber · IBM    │
+│  certifications: CAP · CNSP · Google Cyber · IBM    │
 ├──────────────────────────────────────────────────────────────────────┤
 │  status        : [ ACTIVE ] Open to collabs, research & roles        │
 └──────────────────────────────────────────────────────────────────────┘
